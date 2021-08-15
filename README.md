@@ -3,9 +3,6 @@ My take on the original 3DS-C board. Truth be told, I designed my board before d
 
 ---
 
-To order from OSH Park: https://oshpark.com/shared_projects/t9JD9TEV
-
----
 
 Make sure to remove and completly clean the pads for the dock pins, as my board forgos the dock and covers the pads. If you do not clean the pads the board may not sit flat.
 
